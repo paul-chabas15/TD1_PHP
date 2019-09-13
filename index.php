@@ -5,6 +5,7 @@
 </head>
 <body>
     <?php
+        echo '2 Découverte du PHP';
         echo'<strong>Voici mon premier programme PHP</strong><br/>'."\n";
         echo'C\'est pas mal non ? <br/>';
         $var1 = 6;

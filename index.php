@@ -16,5 +16,6 @@
         echo $var1 + $var2, ' echo $var1 + $var2 <br/>';
         echo $var1 + $var3, ' echo $var1 + $var3 <br/>';
     ?>
+    <a href="Mutualisation.php">Aller à Mutualisation</a>
 </body>
 </html>

@@ -11,5 +11,6 @@
         echo '</body></html>';
     }
 
-    start_page();
+    start_page($result);
     echo $result;
+    end_page();
